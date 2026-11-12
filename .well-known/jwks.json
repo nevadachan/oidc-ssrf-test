@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "kid": "bb-h043-key",
+      "use": "sig",
+      "alg": "RS256",
+      "n": "kEELMtJuKHBxqWo7GjKzQw4BztJK_GX49iDgr_j67mxouvY_T2FTHR_7IDZNi-F2ayg9OOchUhVCcBcgMxINpVlRwXd2akT8_lAZKD0aMmblLtBl9kdj8PKFKbSGG04UJFe_1S7QqLzol85sEF_H2I7gvt7OuRpPE4KGhXeezkAUYe50EBdMRu_DZqqniDWEbuHAUjuwNhRM-GGpJ6s4prBqPe7JPoautd2pNU8lGj17Ph8Wq6Pi9D4ZPx_nE822WWqK7ePQv_XWFzFP0UDxwhDWQ6UY8ww91jDqEMGrFvR9v0oWpsag9cbUbT0YcXNy4NvNNqWAkplXoWTNg_dKgw",
+      "e": "AQAB"
+    }
+  ]
+}
